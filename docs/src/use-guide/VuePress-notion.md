@@ -1,8 +1,7 @@
-# VuePress Setting
-| moved from notion
+| Moved from notion :: [view notion](https://fnf-digital.notion.site/VuePress-6be3ea58fc5c46139afa58bebeeedcc0)
 -
+# VuePress Setting
 <br>
-
 
 - 참고 URL
     
