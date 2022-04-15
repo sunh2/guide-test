@@ -1,0 +1,20 @@
+{
+  "name": "ui-guide",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/ui-guide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.38",
+    "vuepress": "^1.9.7"
+  }
+}
